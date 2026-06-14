@@ -1,0 +1,11 @@
+data/*.csv
+data/processed/*.json
+.env
+.pytest_cache/
+__pycache__/
+*.pyc
+venv/
+man-ETL-env/
+pytest-cache-files-*/
+test-output/
+.DS_Store
